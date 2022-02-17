@@ -2,7 +2,7 @@ fn main() {
     get_element_in_position(2);
     get_element_in_position(100);
     map_vector();
-    verctor_variants();
+    vector_variants();
 }
 
 fn get_element_in_position(position: usize) {
@@ -24,7 +24,7 @@ fn map_vector() {
     }
 }
 
-fn verctor_variants() {
+fn vector_variants() {
     enum SpreadsheetCell {
         Int(i32),
         Float(f64),
