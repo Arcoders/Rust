@@ -1,0 +1,13 @@
+C:\Users\kaula\Desktop\Rust\Pong\target\debug\deps\cc-ae4fb213b1849f64.rmeta: C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\lib.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\registry.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\winapi.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\com.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\setup_config.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\vs_instances.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\windows_registry.rs
+
+C:\Users\kaula\Desktop\Rust\Pong\target\debug\deps\libcc-ae4fb213b1849f64.rlib: C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\lib.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\registry.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\winapi.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\com.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\setup_config.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\vs_instances.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\windows_registry.rs
+
+C:\Users\kaula\Desktop\Rust\Pong\target\debug\deps\cc-ae4fb213b1849f64.d: C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\lib.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\registry.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\winapi.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\com.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\setup_config.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\vs_instances.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\windows_registry.rs
+
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\lib.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\registry.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\winapi.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\com.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\setup_config.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\vs_instances.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.73\src\windows_registry.rs:

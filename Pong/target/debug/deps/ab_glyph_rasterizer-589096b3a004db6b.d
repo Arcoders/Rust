@@ -1,0 +1,7 @@
+c:\Users\kaula\Desktop\Rust\Pong\target\debug\deps\ab_glyph_rasterizer-589096b3a004db6b.rmeta: C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\lib.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\geometry.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\raster.rs
+
+c:\Users\kaula\Desktop\Rust\Pong\target\debug\deps\ab_glyph_rasterizer-589096b3a004db6b.d: C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\lib.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\geometry.rs C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\raster.rs
+
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\lib.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\geometry.rs:
+C:\Users\kaula\.cargo\registry\src\github.com-1ecc6299db9ec823\ab_glyph_rasterizer-0.1.5\src\raster.rs:
